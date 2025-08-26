@@ -96,3 +96,16 @@ VidyaSetu/
 - Bilingual NLP (English ↔ Hindi)  
 - Flask backend integration  
 - TTS pipeline setup  
+
+## Curent ouput
+<img width="587" height="402" alt="Screenshot 2025-08-26 235925" src="https://github.com/user-attachments/assets/3c2a37c2-9115-4f86-b6b0-43e699bf7e76" />
+
+
+<h2 id="contact">Contact</h2>
+  <p>For any inquiries or feedback, please contact:</p>
+  <ul>
+    <li><strong>Name:</strong> Deepanshu Miglani</li>
+    <li><strong>Education:</strong> B.tech CSE(AIML) , UPES, Dehradun</li>
+    <li><strong>Email:</strong> deepanshumiglani0408@gmail.com / Deepanshu.106264@stu.upes.ac.in</li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/deepanshum0408">deepanshum0408</a></li>
+  </ul>
