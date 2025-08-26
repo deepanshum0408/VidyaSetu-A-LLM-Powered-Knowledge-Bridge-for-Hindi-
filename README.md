@@ -1,4 +1,4 @@
-# VidyaSetu – An LLM-Powered Knowledge Bridge for Hindi (Ongoing)
+# VidyaSetu – A LLM-Powered Knowledge Bridge for Hindi (Ongoing)
 
 ## Overview  
 VidyaSetu is an educational assistant that helps bridge the gap between English queries and Hindi learning content. The project combines language models, retrieval systems, and text-to-speech so that students can ask questions in English and get clear answers in Hindi (as text or audio).  
